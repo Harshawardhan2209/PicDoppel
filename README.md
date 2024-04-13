@@ -1,1 +1,1 @@
-It is Instagram clone project
+MERN Stack Project
